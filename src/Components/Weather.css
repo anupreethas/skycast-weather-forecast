@@ -15,7 +15,7 @@ body {
 }
 
 .weatherContainer{
-  background-color: rgba(249, 246, 246, 0.184);
+  background-color: rgba(3, 3, 3, 0.519);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -28,7 +28,7 @@ body {
 .app-name {
   font-size: 3rem;
   margin-bottom: 20px;
-  color: rgb(27, 27, 27);
+  color: rgb(255, 255, 255);
 }
 
 .search-bar {
@@ -76,7 +76,7 @@ body {
 
 .location {
   font-size: 1.2rem;
-  color: #000000;
+  color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: 30px;
 }
@@ -103,7 +103,7 @@ body {
 
 .weather-data span {
   font-size: 0.8rem;
-  color: #000000;
+  color: rgb(255, 255, 255);
   font-weight: 600;
 }
 
